@@ -6,7 +6,7 @@
 * Thomas Stegmüller: thomas.stegmuller@epfl.ch
 
 ## Overview
-The repository contains our implementation of a Machine Learning model for performing Twitter Data Sentiment Analysis. In particular, we worked with a large data of tweets previously containing either happy or sad smiley emoticon. The goal of the model was, given such a tweet, to predict whether it used to have one or the other. This project was part of the the EPFL's _CS-433: Machine Learning_ course.
+The repository contains our implementation of a Machine Learning model for performing Twitter Data Sentiment Analysis. In particular, we worked with a large data of tweets previously containing either happy or sad smiley emoticon. The goal of the model was, given such a tweet, to predict whether it used to have one or the other. This project was part of the the EPFL's _CS-433: Machine Learning_ course. With our model, we reached final accuracy of 84.3%.
 
 ## Dependencies
 
